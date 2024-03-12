@@ -129,11 +129,11 @@ public class MyServlet extends HttpServlet {
 }
 ```
 
-- `index.jsp`: The JSP file for the main page, containing the HTML form for user input
+- `index.html`: The HTML file for the main page, containing the form for user input
 
-_[src/main/webapp/index.jsp](src/main/webapp/index.jsp)_
+_[src/main/webapp/index.html](src/main/webapp/index.html)_
 
-```jsp
+```html
 <!DOCTYPE html>
 <html>
 <head>
